@@ -1,1 +1,2 @@
 This file, Readme.md is originally created on GitHub. In this exercise, you will modify it using VSCode, stage the changes, commit them, and push them to your remote GitHub repository. This is designed to help you get comfortable with using Visual Studio Code (VSCode) alongside GitHub.
+This is a sample project for learning how to use VSCode with GitHub
