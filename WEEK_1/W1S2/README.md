@@ -1,4 +1,2 @@
 # MyFirstRepo
 Your challenge is to create a new repository on GitHub, clone it to your local machine, add a Markdown file, then commit and push your changes back to the GitHub repository.
-Upload
-This is a sample project for learning how to use VSCode with GitHub
