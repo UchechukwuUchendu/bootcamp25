@@ -1,0 +1,1 @@
+Modify the existing contact form to include a field where users can enter a message including other input types such as dropdown menus, radio buttons, checkboxes and date pickers.
