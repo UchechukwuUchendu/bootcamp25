@@ -50,21 +50,25 @@ header p {
     font-family: 'Times New Roman', Times, serif
     /* Green */
 }
+
 .box-3 {
     background-color: lightcoral;
     font-family: Verdana, Geneva, Tahoma, sans-serif
     /* Pink */
 }
+
 .box-4 {
     background-color: lightgoldenrodyellow;
     font-family: 'Courier New', Courier, monospace
     /* Green */
 }
+
 .box-5 {
     background-color: lightsalmon;
     font-family: Georgia, 'Times New Roman', Times, serif
     /* Orange */
 }
+
 .box-6 {
     background-color: lightpink;
     font-family: 'Comic Sans MS', 'Comic Sans', cursive
