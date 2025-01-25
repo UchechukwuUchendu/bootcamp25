@@ -22,10 +22,11 @@ header {
     color: #fff;
     padding: 1rem 0;
     text-align: center;
+    text-shadow: 3px 3px 1px black;
 }
 
 header h1 {
-    font-size: 2rem;
+    font-size: 40px;
     margin-bottom: 0.5rem;
 }
 
@@ -44,7 +45,7 @@ nav ul li a {
 
 nav ul li a:hover {
     text-decoration: underline;
-    background-color: #ddd
+    background-color: #000
 }
 
 /* Section styles */
@@ -54,7 +55,7 @@ section {
     max-width: 800px;
     background: #fff;
     border-radius: 10px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 section#home {
@@ -107,7 +108,7 @@ form button {
 }
 
 form button:hover {
-    background-color: #45a049;
+    background-color: #000;
 }
 
 /* Footer styles */
